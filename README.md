@@ -1,2 +1,2 @@
 # wemess
-Bot totalmente dedicado ao servidor da WE Mess
+Bot totalmente dedicado ao servidor da We Mess Clan
