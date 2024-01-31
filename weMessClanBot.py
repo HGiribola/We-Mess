@@ -4,7 +4,7 @@ from discord.ext import commands
 import random as rand
 import asyncio
 
-bot_token = 'MTE3NjI5OTEyNzk4Mjc4ODYxOA.GyNyVf.5TMJdZd--lRvZAehGiQzWprM-CSAMm7yv1Irks'
+bot_token = DISCORD_TOKEN
 prefixo = '/'
 
 intencoes = discord.Intents.default()
